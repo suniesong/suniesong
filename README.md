@@ -29,12 +29,11 @@
 
 ## 📂 Projects
 
-| 프로젝트명 | 역할 / 스택 | 기간 | 한 줄 소개 | GitHub |
+| 프로젝트명 | 역할 / 스택 | 기간 | 한 줄 소개 |
 |-----------|------------|------|------------|--------|
-| **Troublog** | FE | 2025.03 ~ | 트러블 슈팅 관리 서비스 | [Repo](https://github.com/IT-Cotato/11th-TroubleLog-FE) |
+|[**Troublog**](https://github.com/IT-Cotato/11th-TroubleLog-FE)| FE | 2025.03 ~ | 트러블 슈팅 관리 서비스 | 
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suniesong&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suniesong&layout=compact&theme=radical)
