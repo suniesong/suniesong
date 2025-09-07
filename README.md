@@ -1,7 +1,6 @@
 # Sunie Song
 
 📚 Computer Science / Ewha Womans Univ.
-💻 [Frontend / Backend ]  
 
 ---
 
