@@ -36,5 +36,5 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-id&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-id&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suniesong&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suniesong&layout=compact&theme=radical)
